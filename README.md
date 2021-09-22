@@ -71,7 +71,7 @@ I have provided examples of actions below:
 
 <img src="readmeImages/brands_put.png">
 
-- Get upadeted brand:
+- Get updated brand:
 
 <img src="readmeImages/brands_id_edited.png">
 
